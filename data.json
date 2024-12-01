@@ -1,0 +1,31 @@
+{
+    "menu": [
+      { "name": "Inicio", "link": "#hero" },
+      { "name": "Nuestros Servicios", "link": "#servicios" },
+      { "name": "Contáctenos", "link": "#contacto" },
+      { "name": "Nosotros", "link": "#nosotros" }
+    ],
+    "servicios": [
+      {
+        "title": "Consultoría Digital",
+        "description": "Identificamos las fallas y conectamos los puntos entre tu negocio y tu estrategia digital."
+      },
+      {
+        "title": "Soluciones Multiexperiencia",
+        "description": "Deleitamos a las personas usuarias con experiencias interconectadas a través de diversas plataformas."
+      },
+      {
+        "title": "Evolución de Ecosistemas",
+        "description": "Modernización y mantenimiento de ecosistemas técnicos para soluciones robustas."
+      },
+      {
+        "title": "Soluciones Low-Code",
+        "description": "Soluciones low-code para acelerar la salida al mercado, aumentando la productividad."
+      }
+    ],
+    "nosotros": {
+      "mision": "Nuestra misión es ofrecer soluciones digitales innovadoras que impulsen el éxito de nuestros clientes.",
+      "vision": "Nos visualizamos como líderes en consultoría y desarrollo de software, contribuyendo a la transformación digital de las empresas."
+    }
+  }
+  

@@ -1,0 +1,32 @@
+/* Estilos Generales */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+}
+
+.hero h1 {
+    font-size: 3.5rem;
+
+}
+
+.hero p {
+    font-size: 1.5rem;
+}
+
+.footer-info p {
+    margin: 5px 0;
+}
+
+.card-title {
+    min-height: 2em;
+}
+
+.card-text {
+    min-height: 5em;
+}
+
+#estado-mensaje {
+    display: block;
+    margin-top: 5px;
+    font-weight: bold;
+}
